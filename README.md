@@ -1,5 +1,8 @@
 # Run this script
 
-'''sh
+```sh
 $ruby jetruby.rb
-'''
+```
+
+# lisence
+MIT
